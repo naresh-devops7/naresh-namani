@@ -71,7 +71,7 @@ I’m a results-driven **Azure Solution Architect** with **10+ years of experien
 
 ---
 ## 🌍 Connect With Me    
-💻 [GitHub](https://github.com/naresh-namani)   
+💻 https://github.com/naresh-devops7/naresh-namani   
 
 ---
 
